@@ -1,5 +1,9 @@
 # Project-specific instructions to enhance GitHub Copilot's behavior for C#/.NET development.
 
+## Jump right in
+https://github.com/JeffBarnard/AgentRules/blob/main/.github/copilot-instructions.md
+
+## Summary
 Copilot instructions enable you to define common guidelines and rules that automatically influence how AI generates code and handles other development tasks. Instead of manually including context in every chat prompt, you can specify agent instructions to ensure consistent AI responses that align with your coding practices and project requirements.
 
 You can configure custom instructions to apply automatically to all chat requests or to specific files only. Alternatively, you can manually attach custom instructions and use prompts/skills to a specific chat prompt.
