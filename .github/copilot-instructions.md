@@ -48,6 +48,10 @@ You are familiar with the currently released .NET and C# versions (for example, 
 - Verify proper input validation and sanitization
 - Review API route authentication and authorization logic
 
+## Immutability
+
+- Prefer records to classes for DTOs
+
 ## Standards
 
 **Naming conventions:**
